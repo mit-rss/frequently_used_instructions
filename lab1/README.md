@@ -1,7 +1,7 @@
 # Lab1 Frequently Used Commands
 
 ## Table of Contents
-- [Using the Docker Container](https://github.com/mit-rss/frequently_used_instructions/lab1#using-the-docker-container)
+- [Using the Docker Container](https://github.com/mit-rss/frequently_used_instructions/tree/main/lab1#using-the-docker-container)
 - [Intro to Linux]()
 - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Intro to ROS]()
