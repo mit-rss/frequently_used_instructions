@@ -2,9 +2,13 @@
 
 ## Table of Contents
 - [Using the Docker Container](https://github.com/mit-rss/frequently_used_instructions/tree/main/lab1#using-the-docker-container)
-- [Intro to Linux]()
+    - [Starting Up](https://github.com/mit-rss/frequently_used_instructions/tree/main/lab1#starting-up)
+    - [Shutting Down](https://github.com/mit-rss/frequently_used_instructions/tree/main/lab1#shutting-down)
+- [Intro to Linux](https://github.com/mit-rss/frequently_used_instructions/tree/main/lab1#intro-to-linux)
+    - [SSH](https://github.com/mit-rss/frequently_used_instructions/tree/main/lab1#ssh)
+    - [SCP](https://github.com/mit-rss/frequently_used_instructions/tree/main/lab1#scp)
 - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
-- [Intro to ROS]()
+- [Intro to ROS](https://github.com/mit-rss/frequently_used_instructions/tree/main/lab1#intro-to-ros)
 
 ## Using the Docker Container
 ### Starting Up
