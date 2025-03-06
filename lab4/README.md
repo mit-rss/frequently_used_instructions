@@ -1,14 +1,13 @@
 # Frequently Used Instructions: Lab 4
 ## Table of Contents
-- [Launching the Camera]()
-    - [Camera Topic]()
-    - [Camera Topic]()
-    - [Camera Image Message]()
-    - [rqt Image]()
-  
-- [Launch Files]()
-    - [Simulator]()
-    - [Racecar]()
+- [Launching the Camera](https://github.com/mit-rss/frequently_used_instructions/blob/main/lab4/README.md#launching-the-camera)
+    - [Starting Up](https://github.com/mit-rss/frequently_used_instructions/tree/main/lab4#starting-up)
+    - [Camera Topic](https://github.com/mit-rss/frequently_used_instructions/tree/main/lab4#camera-topic)
+    - [Camera Image Message](https://github.com/mit-rss/frequently_used_instructions/tree/main/lab4#camera-image-message)
+- [Viewing Camera Feed](https://github.com/mit-rss/frequently_used_instructions/tree/main/lab4#viewing-camera-feed)
+- [Racecar Launch Files](https://github.com/mit-rss/frequently_used_instructions/tree/main/lab4#racecar-launch-files)
+    - [Simulator](https://github.com/mit-rss/frequently_used_instructions/tree/main/lab4#simulator)
+    - [Racecar](https://github.com/mit-rss/frequently_used_instructions/tree/main/lab4#on-racecar)
   
 
 ## Launching the Camera
@@ -43,7 +42,7 @@ ros2 interface show sensor_msgs/msg/Image
 ```
 
 ## Viewing Camera Feed
-## Through Rviz
+### Through Rviz
 1. Open rviz
 2. At the bottom left, click add
 3. On the pop-up, click to the add by topic tab
